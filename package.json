@@ -1,0 +1,33 @@
+{
+  "name": "redis-rate-limiting",
+  "version": "1.0.0",
+  "description": "API rate limiting using node and redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dicka88/node-redis-rate-limiting.git"
+  },
+  "keywords": [
+    "node",
+    "redis",
+    "rate",
+    "limit",
+    "limit"
+  ],
+  "author": "dickaismaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dicka88/node-redis-rate-limiting/issues"
+  },
+  "homepage": "https://github.com/dicka88/node-redis-rate-limiting#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "redis": "^3.1.0"
+  }
+}
