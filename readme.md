@@ -1,5 +1,5 @@
 # API RATE LIMIT
-Example implementat API rate limit on Node JS js with Redis storage
+Example implement API rate limit on Node JS js with Redis storage
 
 ## Install
 ```bash
