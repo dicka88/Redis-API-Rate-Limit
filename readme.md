@@ -19,7 +19,6 @@ Open localhost:3000 and refresh 10x to see api rate limit before 1 minutes
 ## Tech
 - Node js
 - Redis
-- Redis js
 - Bluebird
 - Moment
 
